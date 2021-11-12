@@ -25,6 +25,7 @@ h2 {
 
 .x {
 	clear: both;
+	color:transparent;
 }
 address {
 	font-style: italic;
